@@ -1,0 +1,21 @@
+{
+    "name": "belvg/modulecore",
+    "description": "N/A",
+    "type": "prestashop-module",
+    "license": "OSL-3.0",
+    "autoload": {
+        "psr-4": {
+            "BelVG\\ModuleCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BelVG",
+            "email": "contact@belvg.com"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {
+        "php": "5.6"
+    }
+}
